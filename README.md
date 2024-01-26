@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=red&color=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=blue&color=black)
 
-<br>
+
 
 ### Misc tools:
 
